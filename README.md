@@ -6,7 +6,7 @@ Using MySQL for analysis and Power BI for an interactive dashboard, the project 
 
 ![Dashboard overview](images/1_overview.png)
 
-📄 **[View the full dashboard (PDF)](dashboard/.pdf)**
+📄 **[View the full dashboard (PDF)](dashboard/PowerBI_dashboard.pdf)**
 ---
 
 ## Business Questions
